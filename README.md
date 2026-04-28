@@ -18,8 +18,8 @@
 
 ### 1. Клонирование репозитория
 
-git clone <url-репозитория>
-cd fastapi-cr4
+git clone https://github.com/gordigranat-ai/fastAPI-cr-4
+cd fastAPI-cr-4
 
 ### 2. Создание виртуального окружения
 
